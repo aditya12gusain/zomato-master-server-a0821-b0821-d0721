@@ -17,10 +17,10 @@ import privateRouteConfig from "./config/route.config";
 import Auth from "./API/Auth";
 import Restaurant from "./API/Restaurant";
 import Food from "./API/Food";
-import Menu from "./API/Menu";
+import Menu from "./API/menu";
 import Image from "./API/Image";
-import Order from "./API/Orders";
-import Review from "./API/Reviews";
+import Order from "./API/orders";
+import Review from "./API/reviews";
 import User from "./API/User";
 
 // passport config
